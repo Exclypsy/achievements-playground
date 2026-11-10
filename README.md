@@ -12,3 +12,7 @@ Quickdraw, YOLO, Pull Shark and Pair Extraordinaire.
 - [x] YOLO – PR merged without review
 - [x] Pull Shark – 2 merged PRs
 - [ ] Pair Extraordinaire – co-authored merged PR
+
+## Pairing
+
+Co-authored with my second account to unlock Pair Extraordinaire.
