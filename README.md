@@ -5,3 +5,10 @@ Playground for unlocking GitHub profile achievements
 
 This repo exists to unlock GitHub profile achievements:
 Quickdraw, YOLO, Pull Shark and Pair Extraordinaire.
+
+## Checklist
+
+- [x] Quickdraw – issue closed within 5 minutes
+- [x] YOLO – PR merged without review
+- [x] Pull Shark – 2 merged PRs
+- [ ] Pair Extraordinaire – co-authored merged PR
