@@ -16,3 +16,5 @@ Quickdraw, YOLO, Pull Shark and Pair Extraordinaire.
 ## Pairing
 
 Co-authored with my second account to unlock Pair Extraordinaire.
+
+Second pairing attempt, this time with a squash merge.
